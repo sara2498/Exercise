@@ -1,5 +1,5 @@
-You can use Git and GitHub for version control.
+You can use Git and GitHub for version control!
 
-Git manages your files locally.
+Git manages your files locally!
 
-GitHub hosts your files remotely. Note that there are alternatives to GitHub, but GitHub is the most popular.
+GitHub hosts your files remotely! Note that there are alternatives to GitHub, but GitHub is the most popular!
